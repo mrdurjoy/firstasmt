@@ -1,0 +1,219 @@
+.banner{
+    width: 100%; height: 100%; 
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url(img/Banner\ Image.png); 
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    align-items: center;
+}
+.banner-text{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+#new{
+color: white;
+ font-size: 32px;
+ font-family: Merriweather;
+ font-weight: 400;
+ word-wrap: break-word;
+ height: 0px;
+ 
+}
+#next-text{
+    color: white;
+    font-size: 72px;
+    font-family: Merriweather;
+    font-weight: 900;
+    line-height: 95px;
+    word-wrap: break-word
+}    
+.holiday{
+    height: 0;
+}
+.img{
+    justify-content: center;
+    align-items: center; 
+}
+.img{
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        }
+        .background{
+            background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%) , url(img/Vectorrr.png);
+             border-radius: 16px;
+            background-repeat: no-repeat;
+                width: 1320px;
+                height: 600px;
+                align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 150px;
+              }
+.imgover{
+    display :flex
+
+}
+        .party{
+                width: 642px;
+                height: 176px;
+                font-family :Merriweather-Black, Helvetica;
+                font-weight: 900;
+                color: #ffffff;
+                font-size: 64px;
+                letter-spacing: 7.04px;
+                line-height: 88px;
+                /* padding:126px 200px 123px 298px; */ 
+                padding-top: 126px;
+                padding-left: 126px;
+        }
+
+ .dolor{
+        width: 697px;
+        height: 60px;
+        font-family: "Inter-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffffcc;
+        font-size: 18px;
+        letter-spacing: 0;
+        line-height: 30px;
+        /* padding-top: 326px; */
+         padding-left: 126px;
+      }
+      .join-now{
+            width: 103px;
+            height: 24px;
+            font-family: "Inter-Bold", Helvetica;
+            font-weight: 700;
+            color: #ffffff;
+            font-size: 20px;
+            text-align: center;
+            letter-spacing: 0;
+            line-height: normal;
+            white-space: nowrap;
+            padding-left: 158px;
+            padding-bottom: 142px;
+          }
+          .block{
+            background-image: url(img/Rectangle\ 2.png);
+            width: 1320px;
+            height: 600px;
+            margin: auto;
+            align-items: center;
+             background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0) 100%); 
+            /* background: #FF0000, #FF000000, url('B9A1-New-Year-New-Mission/resources/Rectangle\ 2.png'); */
+          }
+          .place{
+            color: #FF0000;
+          }
+          .park{
+            font-size: 32px;
+            font-family: Inter;
+            font-weight: 600;
+            text-transform: capitalize;
+            line-height: 56px;
+            text-align: center;
+            padding-top: 100px;
+          }
+          .join{
+           padding-left: 32px; padding-right: 32px; padding-top: 16px; padding-bottom: 16px; background: #FF0000; 
+           border-radius: 8px; justify-content: center; align-items: center;
+           gap: 10px;
+            display: inline-flex;
+            text-align: center;
+             color: #ffffff;
+             margin-bottom: 110px;
+             margin-left: 576px;
+            
+          }
+          .rectangular-background{
+            background-color: white; /* Set your desired background color */
+            width: 1320px;
+            height: 600px; 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white; 
+            margin: auto;
+          }
+         #rg{
+            background-color: white;
+            width: 1320px;
+            height: 450px; 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white; 
+            margin: auto;
+         }
+        #circle{
+          border: 10px solid red;
+          align-items: center;
+          border-radius: 50%;
+          padding: 20px;
+          justify-content: center;
+        }
+        .t1{
+            text-align: left;
+            justify-content: left;
+            padding-left: 0;
+            margin-left: 0;
+        }
+        #offer{
+            color: #FF0000; 
+            font-size: 24px;
+             font-family: Inter; 
+             font-weight: 500;
+             width: 207px;
+             height: 29px;
+             top: 3122px;
+             left: 140px;
+        }
+        #soon{
+            font-family: Merriweather;
+            color: #070211;
+            font-size: 48px;
+            font-weight: 900;
+            line-height: 60px;
+            letter-spacing: 0;
+            top: 3167px;
+            left: 140px;
+        }
+        #upcoming{
+            font-family: inter;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 32px;
+            letter-spacing: 0;
+            color:#070211;
+            width: 393px;
+            height: 128px;
+            top: 3249px;
+            left: 140px;            
+        }
+        .t2{
+            align-items: right;
+            text-align: right;
+        }
+        #two{
+        color: #FF0000; font-size: 48px; font-family: Inter; font-weight: 700;
+        width: 126px;
+        height: 58px;   
+        top: 3130px;
+        left: 1184.33px;
+        justify-content: top;
+        }
+        .wer{
+            width: 140px; height: 140px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex;
+            align-items: bottom;        
+       }
+       #wish{
+        width: 276px; color: rgba(7, 2, 17, 0.60); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 32px;
+       }
+      
